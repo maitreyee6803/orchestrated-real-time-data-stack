@@ -1,7 +1,7 @@
 # orchestrated-real-time-data-stack
 A containerized infrastructure designed for seamless data ingestion, storage, and visualization. This project demonstartes integration of multiple open-source tools into a unified, deployable environment.
 
-# System Integration
+# Teck satck:
 Stack uses **Docker-compose** to orchestrate three core components:
 Node-red : for logic based data processing and routing
 InfluxDB : High-performance time-series databases fro persistent storage
